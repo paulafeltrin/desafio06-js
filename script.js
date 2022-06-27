@@ -26,31 +26,31 @@ let cadastro = [
     {
         nome: "Guilherme",
         idade: 32,
-        telefone: 65_0000-0000,
+        telefone: 6500000000,
         amigos: ["João", "Paula", "Mateus", "Luan"]
     },
     {
         nome: "Mariana",
         idade: 18,
-        telefone: 11_0000-0000,
+        telefone: 1100000000,
         amigos: ["Luan", "Guilherme", "Dandara", "Marcos"]
     },
     {
         nome: "Paula",
         idade: 27,
-        telefone: 46_0000-0000,
+        telefone: 4600000000,
         amigos: ["Luan", "Marcos", "Dandara", "Mariana"]
     },
     {
         nome: "Lucas",
         idade: 18,
-        telefone: 11_0000-0000,
+        telefone: 1100000000,
         amigos: ["Luan", "Guilherme", "Paula", "Mariana"]
     },
     {
         nome: "Marcos",
         idade: 20,
-        telefone: 45_0000-0000,
+        telefone: 4500000000,
         amigos: ["Luan", "Paula", "Dandara", "Mariana"]
     },
 ]
