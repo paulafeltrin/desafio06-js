@@ -7,7 +7,7 @@ let sobreMim = {
 console.log(sobreMim);
 
 // Adicione uma nova propriedade sem alterar seu objeto inicial.
-sobreMim.telefone = 46_6987-0000;
+sobreMim.telefone = 4669870000;
 
 console.log(sobreMim);
 
